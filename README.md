@@ -20,7 +20,8 @@
 
 ## 🎬 Video Samples
 
-![seedance-2 0](https://github.com/user-attachments/assets/f5fc9b48-34e7-4e6d-961b-42a16c1c02ed)
+![seedance-2 0](https://github.com/seedance-api/seedance-api/blob/main/assets/seedance-2.0.jpg)
+
 
 
 ---
