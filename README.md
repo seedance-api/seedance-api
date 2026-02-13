@@ -19,7 +19,8 @@
 ---
 
 ## 🎬 Video Samples
-*(Place your GIFs here - Upload them to the issue or repo directly so they load fast)*
+![Uploading image.png…]()
+
 
 ---
 
