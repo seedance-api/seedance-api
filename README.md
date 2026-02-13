@@ -20,9 +20,9 @@
 
 ## 🎬 Video Samples
 
-![seedance-2 0](https://github.com/seedance-api/seedance-api/blob/main/assets/seedance-2.0.jpg)
+![Seedance 2.0 AI Video Demo](https://github.com/seedance-api/seedance-api/raw/main/assets/seedance-2.0.jpg)
 
-
+*(Note: Native 2K resolution generation with advanced cinematic character control.)*
 
 ---
 
@@ -34,28 +34,41 @@
 import requests
 
 # Endpoint will be live at api.sedanceai.com
-url = "[https://api.sedanceai.com/v2/generate](https://api.sedanceai.com/v2/generate)" 
+url = "https://api.sedanceai.com/v2/generate" 
 
 payload = {
     "prompt": "Cinematic shot of a cybernetic tiger, 2k resolution, 60fps, hyper-realistic",
-    "model": "seedance-2.0-turbo",  # Latest ByteDance model
+    "model": "seedance-2.0-turbo",  # Latest ByteDance model (Seedream architecture)
     "aspect_ratio": "16:9",
     "api_key": "YOUR_API_KEY_HERE" # Get this from the Waitlist Issue
 }
 
 # Note: This is a preview. Actual response format may vary slightly.
 # response = requests.post(url, json=payload)
-# print(response.json()) 
+# print(response.json())
 ```
+---
 
-## 💬 FAQ
-Q: Where can I get the API Key? > A: We are limiting access to ensure stability. Please comment on Issue #1 to get on the whitelist.
+## ❓ FAQ
 
-Q: Does this support Dreamina features? > A: Yes, it includes the core Seedance architecture used in Dreamina.
+**Q: Where can I get the Seedance 2.0 API Key?**  
+A: We are currently limiting access to ensure system stability. Please comment on [**Issue #1**](https://github.com/seedance-api/seedance-api/issues/1) to join the whitelist and receive your developer credentials.
 
-Q: Pricing? > A: We will offer Pay-as-you-go credits. No monthly subscription required.
+**Q: Does this support Dreamina (Jimeng) and Oriental Skylark (小云雀)?**  
+A: Yes. Seedance 2.0 is the core engine powering **Dreamina (Jimeng AI)**, **Oriental Skylark (小云雀)**, and **ChatCut**. Our API provides direct access to this underlying model.
+
+**Q: Is Seedance 2.0 a good Sora or Kling alternative?**  
+A: Absolutely. In terms of character consistency and 2K cinematic output, Seedance 2.0 (often searched as **SeedDance**) outperforms many current models in professional workflows.
+
+**Q: What is the pricing for API credits?**  
+A: We offer a Pay-as-you-go model. No monthly subscriptions are required. Detailed pricing documentation will be released to whitelisted users on [**Issue #1**](https://github.com/seedance-api/seedance-api/issues/1).
+
+---
 
 <div align="center">
-<h3>🔔 Don't miss the launch!</h3>
-<p>Subscribe to updates via GitHub Issues.</p>
+  
+### 🔔 Don't miss the launch!
+  
+[**👉 Subscribe to Updates via GitHub Issues (Click Here)**](https://github.com/seedance-api/seedance-api/issues/1)
+
 </div>
