@@ -19,7 +19,8 @@
 ---
 
 ## 🎬 Video Samples
-![Uploading image.png…]()
+
+![seedance-2 0](https://github.com/user-attachments/assets/f5fc9b48-34e7-4e6d-961b-42a16c1c02ed)
 
 
 ---
